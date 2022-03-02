@@ -1,0 +1,7 @@
+name: SeamlessWorld
+version: '${project.version}'
+main: me.txmc.seamlessworld.SeamlessWorld
+softdepend: [ Leee ]
+authors: [ 254nm ]
+description: Leee
+website: Leee
