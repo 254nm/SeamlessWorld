@@ -56,12 +56,12 @@
 
     <repositories>
         <repository>
-            <id>sonatype</id>
-            <url>https://oss.sonatype.org/content/groups/public/</url>
+            <id>fuckmaven</id>
+            <url>file://${project.basedir}/repo</url>
         </repository>
         <repository>
-            <id>local-repo</id>
-            <url>file://${project.basedir}/repo</url>
+            <id>sonatype</id>
+            <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
     </repositories>
 
